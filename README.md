@@ -43,8 +43,8 @@ The client (`client.py`):
 ### Start the Server:
 1. Open a terminal.
 2. Navigate to the folder containing `webserver.py`.
-3. Run the server:  python3 webserver.py
-4. The server will display: Ready to serve...
+3. Run the server:  `python3 webserver.py`
+4. The server will display: `Ready to serve...`
 
 ---
 
