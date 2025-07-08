@@ -50,15 +50,11 @@ The client (`client.py`):
 
 ### Test the Server in a Web Browser:
 1. Open your web browser.
-2. In the address bar, enter:  
-
-http://localhost:6789/HelloWorld.html
+2. In the address bar, **enter:** http://localhost:6789/HelloWorld.html
 
 ✅ You should see the contents of `HelloWorld.html`.
 
-3. To test a missing file (404 error), enter:  
-
-http://localhost:6789/NotAFile.html
+3. To test a missing file (404 error), **enter:** http://localhost:6789/NotAFile.html
 
 ❌ You should see a `404 Not Found` message.
 
