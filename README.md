@@ -61,7 +61,7 @@ The client (`client.py`):
 1. Open a second terminal in the same folder.
 2. Run the client program: 
 Formate: 
-    python3 client.py <server_host> <server_port> <filename>
+    '''python3 client.py <server_host> <server_port> <filename>'''
 Example:
     'python3 client.py 127.0.0.1 6789 HelloWorld.html'
 3. The client will display the server’s HTTP response (headers and file contents) in the terminal.
