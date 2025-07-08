@@ -58,13 +58,19 @@ The client (`client.py`):
 ---
 
 ### Start the Client Program:
+
 1. Open a second terminal in the same folder.
+
 2. Run the client program: 
-Formate: 
-    '''python3 client.py <server_host> <server_port> <filename>'''
-Example:
-    'python3 client.py 127.0.0.1 6789 HelloWorld.html'
+
+**Formate:** 
+    python3 client.py <server_host> <server_port> <filename>
+
+**Example:**
+    python3 client.py 127.0.0.1 6789 HelloWorld.html
+
 3. The client will display the server’s HTTP response (headers and file contents) in the terminal.
+
 4. To test a missing file with the client, run:  
     python3 client.py 127.0.0.1 6789 NotAFile.html
 
