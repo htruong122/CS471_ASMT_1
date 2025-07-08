@@ -74,6 +74,5 @@ The client (`client.py`):
 
 3. The client will display the server’s HTTP response (headers and file contents) in the terminal.
 
-4. To test a missing file with the client, run:  
-    `python3 client.py 127.0.0.1 6789 NotAFile.html`
+4. To test a missing file with the client, run: `python3 client.py 127.0.0.1 6789 NotAFile.html`
 
