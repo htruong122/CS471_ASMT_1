@@ -50,11 +50,11 @@ The client (`client.py`):
 
 ### Test the Server in a Web Browser:
 1. Open your web browser.
-2. In the address bar, **enter:** http://localhost:6789/HelloWorld.html
+2. In the address bar, **enter:** `http://localhost:6789/HelloWorld.html`
 
 ✅ You should see the contents of `HelloWorld.html`.
 
-3. To test a missing file (404 error), **enter:** http://localhost:6789/NotAFile.html
+3. To test a missing file (404 error), **enter:** `http://localhost:6789/NotAFile.html`
 
 ❌ You should see a `404 Not Found` message.
 
@@ -67,13 +67,13 @@ The client (`client.py`):
 2. Run the client program: 
 
 **Formate:** 
-    python3 client.py <server_host> <server_port> <filename>
+    `python3 client.py <server_host> <server_port> <filename>`
 
 **Example:**
-    python3 client.py 127.0.0.1 6789 HelloWorld.html
+    `python3 client.py 127.0.0.1 6789 HelloWorld.html`
 
 3. The client will display the server’s HTTP response (headers and file contents) in the terminal.
 
 4. To test a missing file with the client, run:  
-    python3 client.py 127.0.0.1 6789 NotAFile.html
+    `python3 client.py 127.0.0.1 6789 NotAFile.html`
 
