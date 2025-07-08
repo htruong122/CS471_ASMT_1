@@ -2,8 +2,8 @@
 
 ## Author(s)
 - Jovani Antonio
-- Ryan Trinh
-- Helen Truong
+- Ryan Trinh (rtrinh02@csu.fullerton.edu)
+- Helen Truong (htruong122@csu.fullerton.edu)
 
 ---
 
