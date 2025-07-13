@@ -1,7 +1,7 @@
 # Programming Assignment 1: Socket Programming Web Server and Client
 
 ## Author(s)
-- Jovani Antonio
+- Jovani Antonio (jovaniantonio@csu.fullerton.edu)
 - Ryan Trinh (rtrinh02@csu.fullerton.edu)
 - Helen Truong (htruong122@csu.fullerton.edu)
 
